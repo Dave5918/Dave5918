@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Dave5918
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...Software Engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m DAVID OMONDI
+- 👀 I’m interested in ...Machine Learning and AI
+- 🌱 I’m currently learning ...ML/AI
+- 💞️ I’m looking to collaborate on ...MACHINE LEARNING AND AI ROJECTS 
+- 📫 How to reach me ...+254799075415
 - 😄 Pronouns: ...HE
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...Earth can be customized
 
 <!---
 Dave5918/Dave5918 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
